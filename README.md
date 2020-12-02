@@ -1,7 +1,7 @@
 ![weather](https://user-images.githubusercontent.com/63557278/100550184-7a0bf380-3278-11eb-81f4-11d24a37b355.png)
 
 # Weather App
-Weather App built in Flask
+Weather App built with Flask
 
 ## Introduction
 Checking the weather becomes easy.
